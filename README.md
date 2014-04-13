@@ -1,0 +1,4 @@
+irssi-plugins
+=============
+
+irssi-plugins
